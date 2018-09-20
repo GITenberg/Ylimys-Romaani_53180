@@ -1,0 +1,40 @@
+_repo: Ylimys-Romaani_53180
+_version: 0.0.1
+alternative_title: The patrician. Finnish
+contributor:
+  translator:
+    agent_name: Vuorinen, Huvi
+    aliases:
+    - Rajatie, Veikko
+    - Valkama, Ville
+    - Vasama, Veikko
+    birthdate: 1883
+    deathdate: 1965
+    gutenberg_agent_id: '47115'
+    url: http://www.gutenberg.org/2009/agents/47115
+    wikipedia: https://fi.wikipedia.org/wiki/Huvi_Vuorinen
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2016-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53180'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Upper class -- England -- Fiction'
+- GITenberg
+title: 'Ylimys: Romaani'
+url: http://www.gutenberg.org/ebooks/53180
